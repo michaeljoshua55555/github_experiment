@@ -32,6 +32,6 @@ Resolving Merge Conflicts
 Menu will be present - study carefully accept incoming/current/ or both 
 If no menu is presented then manully remove >>> HEAD  >>>>> - delete the unnecessary parts
 
-
+last step will be to commit and push the changes
 
 
