@@ -6,6 +6,8 @@
 
 User Branches to experiment and try feature
 - after achiving desired result merge and master, if conflicts exist accept the necessary things and discard the unnecessary
+- MAKE SURE you're in the right branch when you are working on someone - CURRENT Branch 
+otherwise you may have to manually copy or worst case merge and resolve issues
 
 
 Go to commits - click find files 
@@ -18,3 +20,18 @@ how to setup and run the projects
 
 
 Pull Request is completely web-based
+
+https://guides.github.com/introduction/flow/
+https://help.github.com/articles/creating-releases/
+https://en.wikipedia.org/wiki/Fork_and_pull_model
+
+
+
+Resolving Merge Conflicts 
+=========================
+Menu will be present - study carefully accept incoming/current/ or both 
+If no menu is presented then manully remove >>> HEAD  >>>>> - delete the unnecessary parts
+
+
+
+
