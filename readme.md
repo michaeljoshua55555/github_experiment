@@ -15,3 +15,6 @@ Use Wiki to document entire project - feature etc
 Use readme file to say the minumum steps required to run the project
 
 how to setup and run the projects
+
+
+Pull Request is completely web-based
