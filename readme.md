@@ -19,6 +19,7 @@ Use readme file to say the minumum steps required to run the project
 how to setup and run the projects
 
 
+Pull Request is completely web-based
 
 https://guides.github.com/introduction/flow/
 https://help.github.com/articles/creating-releases/
@@ -34,5 +35,7 @@ asdlkfjsl
 aslkdfjsdlkfjasl;dkfj
 asdlkfjsdlfkjsdflkj
 
+
+last step will be to commit and push the changes
 
 
