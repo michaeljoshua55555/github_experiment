@@ -6,3 +6,12 @@
 
 User Branches to experiment and try feature
 - after achiving desired result merge and master, if conflicts exist accept the necessary things and discard the unnecessary
+
+
+Go to commits - click find files 
+
+Use Wiki to document entire project - feature etc 
+
+Use readme file to say the minumum steps required to run the project
+
+how to setup and run the projects
