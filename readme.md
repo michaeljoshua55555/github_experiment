@@ -26,5 +26,11 @@ https://en.wikipedia.org/wiki/Fork_and_pull_model
 
 
 
+Resolving Merge Conflicts 
+=========================
+Menu will be present - study carefully accept incoming/current/ or both 
+If no menu is presented then manully remove >>> HEAD  >>>>> - delete the unnecessary parts
+
+
 
 
