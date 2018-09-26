@@ -13,7 +13,12 @@ class TestClass{
        
    }
 
-   
+   public function newMethod()
+   {
+       
+   }
+
+
 
      
 }
