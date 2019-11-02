@@ -1,0 +1,16 @@
+{
+  "msg":"login successful",
+  "data":{
+    "token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjVkYmQzZTJhZWQ3OGY0MDA0Mjk2OWUwMCIsImVtYWlsIjoiZW1haWxAZ21haWwuY29tIiwiZXhwIjoxNTcyOTQzMzI5LCJmaXJzdF9uYW1lIjoiZmlyc3QiLCJsYXN0X25hbWUiOiJzZGZsYXNrZGZqIiwicGhvbmUiOiI5MDEyMzQ1Njc4Iiwicm9sZSI6ImFkbWluIn19.oUmEJmOBIgmRsjw4BEtUepUxxD_C_5ayDsqR1xScY10",
+    "user":{
+      "_id":"5dbd3e2aed78f40042969e00",
+      "email":"email@gmail.com",
+      "exp":1572943329,
+      "first_name":"first",
+      "last_name":"sdflaskdfj",
+      "phone":"9012345678",
+      "role":"admin"
+    }
+  },
+  "success":true
+}
