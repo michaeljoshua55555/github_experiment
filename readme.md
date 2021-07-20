@@ -12,7 +12,7 @@ User Branches to experiment and try feature
 - MAKE SURE you're in the right branch when you are working on someone - CURRENT Branch 
 otherwise you may have to manually copy or worst case merge and resolve issues
 - ADDING NEW POINTS HERE
-
+-made some changes 
 
 Go to commits - click find files 
 
