@@ -17,6 +17,9 @@ otherwise you may have to manually copy or worst case merge and resolve issues
 
 Go to commits - click find files 
 - making changes to changes to change it
+- make some changes
+- make some changes
+- make some changes
 
 Use Wiki to document entire project - feature etc 
 
